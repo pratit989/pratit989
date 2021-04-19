@@ -10,4 +10,6 @@
 - ⚡ Fun fact: I am love philosophy.  
 
 
-![Pratit GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratit989&show_icons=true)
+![Pratit GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratit989&show_icons=true)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)  
