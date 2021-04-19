@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about Python, Flutter or any tech related stuff.
 - 📫 How to reach me: <a href="pratittodkar@gmail.com">ZON.</a>
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I am love philosophy.
+- ⚡ Fun fact: I am love philosophy.   
 -->
 
 
