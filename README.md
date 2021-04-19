@@ -27,6 +27,8 @@
 - ⚡ Fun fact: I am love philosophy.<br>      
 <br>
 <br>
+
+
 ![Pratit GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratit989&show_icons=true)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratit989)](https://github.com/pratit989/github-readme-stats)  
