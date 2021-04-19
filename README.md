@@ -1,5 +1,5 @@
 ### Hi, I'm Pratit Todkar 👋
-
+<span style="background-color:#FFFFFF;">
 <a target="_blank" href="https://www.linkedin.com/in/pratit-todkar/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -14,7 +14,7 @@
 </a>
 <a target="_blank" href="https://fb.com/Pratit123">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>  
+</a></span>  
 <br>
 <br>
 - 🔭 I’m currently working on <a href="https://github.com/pratit989/ZON">Zon</a><br>
