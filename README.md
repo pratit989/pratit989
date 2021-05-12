@@ -24,7 +24,7 @@
 - 💬 Ask me about Python, Flutter or any tech related stuff<br> 
 - 📫 How to reach me: <a href="mailto:pratittodkar@gmail.com">Email</a><br>    
 - 😄 Pronouns: He/His<br>
-- ⚡ Fun fact: I am love philosophy.<br>      
+- ⚡ Fun fact: I am in love with philosophy.<br>      
 <br>
 <br>
 
