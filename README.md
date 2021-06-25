@@ -17,7 +17,7 @@
 </a>
 <br>
 <br>
-- 🔭 I’m currently working on <a href="https://github.com/pratit989/ZON">Zon</a><br>
+- 🔭 I’m currently working on <a href="https://github.com/Pratit-Mrudul/SigceEvents">SIGCE Events Website</a><br>
 - 🌱 I’m currently learning GoLang<br>
 - 👯 I’m looking to collaborate on innovative projects<br>   
 - 🤔 I’m looking for help with getting freelancing projects<br>    
