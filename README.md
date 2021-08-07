@@ -16,10 +16,10 @@
 </a>
 <br>
 <br>
-- 🔭 I’m currently working on <a href="https://github.com/Pratit-Mrudul/SigceEvents">SIGCE Events Website</a><br>
+- 🔭 I’m currently working on Cross-Platform Flutter Applications
 - 🌱 I’m currently learning GoLang<br>
 - 👯 I’m looking to collaborate on innovative projects<br>   
-- 🤔 I’m looking for help with getting freelancing projects<br>    
+- 🤔 I’m looking for help with getting clients<br>    
 - 💬 Ask me about Python, Flutter or any tech related stuff<br> 
 - 📫 How to reach me: <a href="mailto:pratittodkar@gmail.com">Email</a><br>    
 - 😄 Pronouns: He/His<br>
