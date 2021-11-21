@@ -17,7 +17,6 @@
 <br>
 <br>
 - 🔭 I’m currently working on Cross-Platform Flutter Applications<br>
-- 🌱 I’m currently learning GoLang<br>
 - 👯 I’m looking to collaborate on innovative projects<br>   
 - 🤔 I’m looking for help with getting clients<br>    
 - 💬 Ask me about Python, Flutter or any tech related stuff<br> 
