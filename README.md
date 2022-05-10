@@ -18,7 +18,7 @@
 <br>
 - 🔭 I’m currently working on Cross-Platform Flutter Applications<br>
 - 👯 I’m looking to collaborate on innovative projects<br>   
-- 🤔 I’m looking for help with getting clients<br>    
+- 🤔 I’m looking to hire flutter developers<br>    
 - 💬 Ask me about Python, Flutter or any tech related stuff<br> 
 - 📫 How to reach me: <a href="mailto:pratittodkar@gmail.com">Email</a><br>    
 - 😄 Pronouns: He/His<br>
